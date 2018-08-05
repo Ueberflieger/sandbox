@@ -1,4 +1,4 @@
-TARGET = quicksort
+TARGET = MultiplyArray
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall
