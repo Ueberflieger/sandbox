@@ -35,10 +35,10 @@ int main(void)
     FILE *fp;
     int nbrTestCases = 0;
 
-    //char input[] = "Debug/input.txt";
-    //char input[] = "Debug/A-small-practice.in";
-    char input[] = "Debug/A-large-practice.in";
-    char output[] = "Debug/output.txt";
+    //char input[] = "input.txt";
+    //char input[] = "A-small-practice.in";
+    char input[] = "A-large-practice.in";
+    char output[] = "output.txt";
 
     puts("start");
 
