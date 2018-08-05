@@ -1,12 +1,3 @@
-/*
- ============================================================================
- Name        : longestContSubarray.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -37,7 +28,6 @@ int findLength(int arr[], int len)
 	int remLen = len;
 	int startIdx = 0;
 	int endIdx = 1;
-	int min, max;
 
 	do
 	{
