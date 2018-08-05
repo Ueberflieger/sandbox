@@ -13,8 +13,6 @@ typedef struct myType
 void quick_sort(myType[], int, int);
 int partition(myType[], int, int);
 
-
-
 #define ARR_LEN 10
 myType myArray[ARR_LEN];
 
